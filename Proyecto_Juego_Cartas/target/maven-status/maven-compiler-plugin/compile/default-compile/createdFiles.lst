@@ -1,0 +1,14 @@
+com\uisil\proyecto_juego_cartas\controllers\Controller.class
+com\uisil\proyecto_juego_cartas\SecondaryController.class
+com\uisil\proyecto_juego_cartas\model\CartaPenalizacion.class
+com\uisil\proyecto_juego_cartas\model\Carta.class
+com\uisil\proyecto_juego_cartas\logic\Juego.class
+com\uisil\proyecto_juego_cartas\logic\Dificultad.class
+com\uisil\proyecto_juego_cartas\PrimaryController.class
+com\uisil\proyecto_juego_cartas\model\CartaBonus.class
+com\uisil\proyecto_juego_cartas\model\CartaNormal.class
+com\uisil\proyecto_juego_cartas\App.class
+com\uisil\proyecto_juego_cartas\controllers\MainController.class
+module-info.class
+com\uisil\proyecto_juego_cartas\logic\Tablero.class
+com\uisil\proyecto_juego_cartas\model\CartaBonusExtensiones.class
